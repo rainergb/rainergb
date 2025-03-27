@@ -22,21 +22,7 @@ Com mais de 1 ano de experiência em desenvolvimento de software para o mercado 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Análises GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rainergb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainergb&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-### ⚡ Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rainergb&theme=tokyonight)](https://git.io/streak-stats)
-
-### 🌐 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=rainergb&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📈 Contribuições
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rainergb&theme=tokyo-night&hide_border=true&area=true)
 
 ### 📫 Conecte-se comigo
 <a href="https://www.linkedin.com/in/rainer-drummond/">
