@@ -1,8 +1,8 @@
-# Rainer Drummond
+# Olá, me chamo Rainer Drummond
 
-## Desenvolvedor Front End
+## Desenvolvedor de Software
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Com mais de 1 ano de experiência em desenvolvimento de software para o mercado financeiro, sou apaixonado por criar soluções tecnológicas que impulsionem resultados.
 
@@ -36,21 +36,21 @@ Com mais de 1 ano de experiência em desenvolvimento de software para o mercado 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rainergb&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 Contribuições
-![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rainergb&theme=tokyonight)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rainergb&theme=tokyo-night&hide_border=true&area=true)
 
 ### 📫 Conecte-se comigo
 <a href="https://www.linkedin.com/in/rainer-drummond/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<img width="100%" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github-contribution-grid-snake-dark.svg" />
+<img width="100%" src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="60" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="60" />
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node.js" width="60" />
+  <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" alt="TypeScript" width="60" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="60" />
 </div>
