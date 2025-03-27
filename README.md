@@ -7,8 +7,7 @@
 Com mais de 1 ano de experiência em desenvolvimento de software para o mercado financeiro, sou apaixonado por criar soluções tecnológicas que impulsionem resultados.
 
 ### 💻 Sobre mim
-- 🔭 Especialista em desenvolvimento de software para o mercado financeiro
-- 🌱 Constantemente aprendendo e aprimorando minhas habilidades
+- 🔭Constantemente aprendendo e aprimorando minhas habilidades
 - 💼 Experiência em sistemas financeiros e aplicações de alta performance
 - 📈 Focado em soluções tecnológicas inovadoras
 
