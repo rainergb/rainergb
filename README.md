@@ -2,7 +2,6 @@
 
 ## Desenvolvedor de Software
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Com mais de 1 ano de experiência em desenvolvimento de software para o mercado financeiro, sou apaixonado por criar soluções tecnológicas que impulsionem resultados.
 
@@ -37,5 +36,4 @@ Com mais de 1 ano de experiência em desenvolvimento de software para o mercado 
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="60" />
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node.js" width="60" />
   <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" alt="TypeScript" width="60" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="60" />
 </div>
