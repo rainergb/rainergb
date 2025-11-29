@@ -3,7 +3,7 @@
 ## Desenvolvedor de Software
 
 
-Com mais de 1 ano de experiência em desenvolvimento de software para o mercado financeiro, sou apaixonado por criar soluções tecnológicas que impulsionem resultados.
+Com mais de 2 anos de experiência em desenvolvimento de software para o mercado financeiro, sou apaixonado por criar soluções tecnológicas que impulsionem resultados.
 
 ### 💻 Sobre mim
 - 🔭Constantemente aprendendo e aprimorando minhas habilidades
